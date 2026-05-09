@@ -1,8 +1,8 @@
 ### Luke Waehner
 
-Backend SWE intern @ **Smartleaf**, working on portfolio reporting and cash-sweep automation across ~$110B AUM. CS + Fintech @ Northeastern, graduating Dec 2026.
+Backend SWE intern @ **Smartleaf**. CS + Fintech @ Northeastern, graduating Dec 2026.
 
-I build at the intersection of **systems and finance** — low-latency infrastructure, trading/portfolio tooling, and the plumbing that moves money correctly.
+I build at the intersection of **systems and finance** - low-latency infrastructure, trading/portfolio tooling, and the plumbing that moves money correctly.
 
 ---
 
@@ -14,9 +14,9 @@ I build at the intersection of **systems and finance** — low-latency infrastru
 
 #### Recent work
 
-- **[High-Frequency-Trading-Book](https://github.com/lukewaehner/High-Frequency-Trading-Book)** — Lock-free matching engine, 1.3M orders/sec, sub-µs latency. Axum + Tokio + WebSockets.
+- **[High-Frequency-Trading-Book](https://github.com/lukewaehner/High-Frequency-Trading-Book)** - Lock-free matching engine, 1.3M orders/sec, sub-µs latency. Axum + Tokio + WebSockets.
 - Cash Sweep automation — platform-wide USD→MMF conversion across enrolled accounts
-- PostgreSQL replay harness — ~1M portfolios validated for parity across major version upgrade
+- PostgreSQL replay harness - ~1M portfolios validated for parity across major version upgrade
 
 #### Stack
 
