@@ -2,14 +2,14 @@
 
 Backend SWE intern @ **Smartleaf**. CS + Fintech @ Northeastern, graduating Dec 2026.
 
-I build at the intersection of **systems and finance** - low-latency infrastructure, trading/portfolio tooling, and the plumbing that moves money correctly.
+I enjoy building out the infrastructure and tooling that power financial systems, with a particular focus on low-latency, micro-optimized services.
 
 ---
 
 #### Currently
 
-- Extending tree-structured allocation reporting and PG14→PG18 A/B test harnesses at Smartleaf
-- Sharpening Rust for performance-critical financial systems
+- Building householding and cash sweep automation features for Smartleaf's wealth management platform
+- Developing a lock-free matching engine in Rust, and simulating options pricings.
 - Open to **New Grad Backend / Infra / Fintech roles starting July 2026**
 
 #### Recent work
@@ -20,7 +20,7 @@ I build at the intersection of **systems and finance** - low-latency infrastruct
 
 #### Stack
 
-`Rust` `Python` `Java` `TypeScript` `C/C++` `Swift` · `PostgreSQL` `MongoDB` · `AWS` `Node.js` `React` `Electron`
+`Rust` `Ruby` `Python` `Java` `TypeScript` `C/C++` `Swift` · `PostgreSQL` `MongoDB` · `AWS` `Node.js` `React` `Electron`
 
 ---
 
