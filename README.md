@@ -15,8 +15,7 @@ I enjoy building out the infrastructure and tooling that power financial systems
 #### Recent work
 
 - **[High-Frequency-Trading-Book](https://github.com/lukewaehner/High-Frequency-Trading-Book)** - Lock-free matching engine, 1.3M orders/sec, sub-µs latency. Axum + Tokio + WebSockets.
-- Cash Sweep automation — platform-wide USD→MMF conversion across enrolled accounts
-- PostgreSQL replay harness - ~1M portfolios validated for parity across major version upgrade
+- **[Assetui](https://github.com/lukewaehner/assetui)** - Pocket asset information center for the terminal. Tokio + yfinance_rs + ratatui.
 
 #### Stack
 
