@@ -1,6 +1,6 @@
 ### Luke Waehner
 
-Backend SWE intern @ **Smartleaf**. CS + Fintech @ Northeastern, graduating Dec 2026.
+Server Architecture @ **Smartleaf**. CS + Fintech @ Northeastern, graduating Dec 2026.
 
 I enjoy building out the infrastructure and tooling that power financial systems, with a particular focus on low-latency, micro-optimized services.
 
