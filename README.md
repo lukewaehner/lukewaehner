@@ -8,8 +8,8 @@ I enjoy building out the infrastructure and tooling that power financial systems
 
 #### Currently
 
-- Building householding and cash sweep automation features for Smartleaf's wealth management platform
-- Developing a lock-free matching engine in Rust, and simulating options pricings.
+- Developing server architecture at Meteora Capital
+- Working on a Assetui
 - Open to **New Grad Backend / Infra / Fintech roles starting July 2026**
 
 #### Recent work
