@@ -1,6 +1,6 @@
 ### Luke Waehner
 
-Server Architecture @ **Smartleaf**. CS + Fintech @ Northeastern, graduating Dec 2026.
+Server Architecture @ **Meteora**. CS + Fintech @ Northeastern, graduating Dec 2026.
 
 I enjoy building out the infrastructure and tooling that power financial systems, with a particular focus on low-latency, micro-optimized services.
 
@@ -8,7 +8,7 @@ I enjoy building out the infrastructure and tooling that power financial systems
 
 #### Currently
 
-- Developing server architecture at Meteora Capital
+- Developing server architecture at Meteora
 - Working on a Assetui
 - Open to **New Grad Backend / Infra / Fintech roles starting July 2026**
 
