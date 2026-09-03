@@ -8,9 +8,8 @@ I enjoy building out the infrastructure and tooling that power financial systems
 
 #### Currently
 
-- Developing server architecture at Meteora
-- Working on a Assetui
-- Open to **New Grad Backend / Infra / Fintech roles starting July 2026**
+- Server architecture at Meteora
+- Working on a Assetui - TUI based financial manager written in rust
 
 #### Recent work
 
@@ -19,7 +18,7 @@ I enjoy building out the infrastructure and tooling that power financial systems
 
 #### Stack
 
-`Rust` `Ruby` `Python` `Java` `TypeScript` `C/C++` `Swift` · `PostgreSQL` `MongoDB` · `AWS` `Node.js` `React` `Electron`
+`Rust` `Ruby` `Python` `Java` `TypeScript` `C/C++` `Swift` · `PostgreSQL` `MongoDB` · `AWS` `Terraform` `Node.js` `React` `Electron`
 
 ---
 
