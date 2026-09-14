@@ -18,7 +18,7 @@ I enjoy building out the infrastructure and tooling that power financial systems
 
 #### Stack
 
-`Rust` `Ruby` `Python` `Java` `TypeScript` `C/C++` `Swift` · `PostgreSQL` `MongoDB` · `AWS` `Terraform` `Node.js` `React` `Electron`
+`Rust` `Ruby` `Python` `Java` `TypeScript` `C/C++` `Swift` · `PostgreSQL` `MongoDB` · `AWS` `Terraform` `Ansible` · `Node.js` `React` `Electron`
 
 ---
 
