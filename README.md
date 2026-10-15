@@ -9,7 +9,7 @@ I enjoy building out the infrastructure and tooling that power financial systems
 #### Currently
 
 - Server architecture at Meteora
-- Working on a Assetui - TUI based financial manager written in rust
+- Working on a Prints - Fault tolerant filled trade stream in Golang w/ Kubernetes
 
 #### Recent work
 
