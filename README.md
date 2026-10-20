@@ -1,15 +1,15 @@
 ### Luke Waehner
 
-Server Architecture @ **Meteora**. CS + Fintech @ Northeastern, graduating Dec 2026.
+Quantitative Development @ **Meteora**. CS + Fintech @ Northeastern, graduating Dec 2026.
 
-I enjoy building out the infrastructure and tooling that power financial systems, with a particular focus on low-latency, micro-optimized services.
+I enjoy building out the infrastructure and tooling that power financial systems, with a fascination in low-latency, micro-optimized services.
 
 ---
 
 #### Currently
 
-- Server architecture at Meteora
-- Working on a Prints - Fault tolerant filled trade stream in Golang w/ Kubernetes
+- Quant at Meteora
+- Working on a Prints - Fault tolerant filled trade stream in Golang replay-ability through Kubernetes tolerance
 
 #### Recent work
 
@@ -18,7 +18,7 @@ I enjoy building out the infrastructure and tooling that power financial systems
 
 #### Stack
 
-`Rust` `Ruby` `Python` `Java` `TypeScript` `C/C++` `Swift` · `PostgreSQL` `MongoDB` · `AWS` `Terraform` `Ansible` · `Node.js` `React` `Electron`
+`Python` `Rust` `C/C++` `Ruby`  `Java` `TypeScript` `Swift` · `PostgreSQL` `MongoDB` · `AWS` `Terraform` `Ansible` · `React` `Node.js` `Electron`
 
 ---
 
